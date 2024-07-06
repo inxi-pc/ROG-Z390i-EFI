@@ -255,25 +255,32 @@
 	<dict>
 		<key>Add</key>
 		<dict>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>PP_PhmSoftPowerPlayTable</key>
+				<data>pgkSAAIiA64JAAAiQwAAgwAYAAAAHAAAAAAAAHYAAAAAAAAAAAAAAAAAAQAAAAEAAAANAAAAxAkAAAAFAADoAwAACAcAAOIEAACVBQAA4gQAAJUFAACwBAAAwQQAAMEEAAAqAwAAwQQAAAAAAAAAAAAAAAAAAPQBAACiAQAAYQAAAPQBAAA8AgAAsgIAADwCAACyAgAAogEAAOcBAADnAQAALAEAAOcBAAAAAAAAAAAAAAAAAACBAAAAEAAAAB4AAAABAQEBAQEBAQEAAQEBAQEBAAAAAAAAAAAAAAAAAAAAACgKAAAoCgAAAAAAAAAAAAAAAAAAKAoAALAEAACwBAAAFAAAABAOAAAQDgAAbgAAAG4AAAABAAAAAQAAAAEAAAABAAAAAQAAAGQAAABkAAAAZAAAAGQAAABkAAAAZAAAAGQAAABkAAAAZAAAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0AQAA9AEAAAAAAAAAAAAAAAAAAPQBAACiAgAAogIAAAYAAAD6AAAA6AMAABkAAAAyAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZAAAACgAAABkAAAAKAAAAGQAAAAoAAAAZAAAACgAAABkAAAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAAABfAF8AXwBfAHIGcgbWBtYGbAdsB8oIbAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAAAD//X+j4zcEAJEAAAAAAAAAAAAAAAAAAACRAAAAAAAAAAAAAAAAAAAAggASAAAAAABkAG4AZABzAHMAcwBzAAAAAAAAAAAAAAABAAAACgAAAAAAAAAAAAAAAAAAALgLSA3YDmgQwBIAAPw4AAD/PwAAMgBkAAAAuAu4CzIAAAAAAOoL6gv4EWgQgAAAATcANwC4C7gLuAu4CwUABQAAAAIAAACAPwAAAAA4FQk++MLkvS4cKD+hAQAAAAACAL6fij9I4Xo+91j6OlYO7T7vVas+ogEAAAABBABxPZo/w/UoPgBSGzsK1wM/w0eUPmEAAAAAAAIAAACAPwAAAAC5pdU6vp/aPlyPgj70AQAAAAACAPYonD8IrBw+o0AfO0JgBT/uWoI+PAIAAAAAAgDTTYI/g8BKPv2C3TpSuN4+jV2CPrICAAAAAAIA9iicPwisHD6jQB87QmAFP+5agj48AgAAAAACANNNgj+DwEo+/YLdOlK43j6NXYI+sgIAAAAAAgD5D5k/mpmZPokMKztxPQo/G2SCPqIBAAAAAAIA7FGYP3NoET4X8R07L90EP41dgj7nAQAAAAACAOxRmD9zaBE+F/EdOy/dBD+NXYI+5wEAAAAAAgDZzjc/rBw6PwAAAABEaY8+wTkTPywBAAAAAAIA7FGYP3NoET4X8R07L90EP41dgj7nAQAA9AHECQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyApUFAAAAAAAAAAAAAAAAPALiBAAAAAAAAAAAAAAAAKIBAAUAAAAAAAAAAAAAAABhAB4CpALoA6IBsAQAAAAAAAAAAAAAAADnAcEEAAAAAAAAAAAAAAAA5wHBBAAAAAAAAAAAAAAAACwBKgMAAAAAAAAAAAAAAADnAcEEAAAAAAAAAAAAAAAA9AEIBwAAAAAAAAAAAAAAAAAAAAC+MIE/FvtLPVVqdr2+MIE/FvtLPVVqdr2+MIE/FvtLPVVqdr3zH2I/I9v5PS7/ob3Q1SY/bef7Pb72LD7ECQAAAAUAAOgDAAAIBwAA4gQAAJUFAADiBAAAlQUAALAEAADBBAAAwQQAACoDAADBBAAAAAMDAwgHAABMAfoB8AqADIwKSA1IDUgNiBMYFRgVGBX0ASAD9AEBAAECXQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABRE9cSXRLiEWgR7RBzEPkPfg8ED4kODw6+DG4LHQrMCAAAAAADAgEAAAAAAAAAAAAAAAAAAAMBBFEAawIyADwAAACQAZABkAGQAZABkAGQAZABkAEUAJgIIgsQDgAAWQD0AQAAAQAAAgAAAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOf7Kb2TGMQ+gue+vgAAAAAAAAAAAAAAAIGVwz1Y4oE9cF+HvQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4ADgAAEBAAAAAAAA4ADgABkAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVAtYAAAA3pOJQLByaD4pXOlB6NnMPgAAAABUC1QLCAwIDLQAZABkAAAAAAAAAAAAAAAAAAAAAAAAACwIAAA3CQAAHQoAACwIAAA3CQAAHQoAAAAAAAAAAAAAAAAAAAAAGgEB9a2AGQhoAQEFSBzcAwsAAADA0ODwpQEBqhkAAAB0AQEF/////zIBAa8AAACOAQAAABcAAAAXAAAAklcrBQAAAQBlAG4AdAABAG8AaQBkAAEAZwBhAGkAAQAgAGEAdAABAE0AZQBtAAEAcgB5AAAAbgAAAAAAJG1MrwABAI4EAAAAFwAAABcAAADiASsFAABUAF8ATQBFAE0AMQAgAAEAAQBuAAEAQwABAG4AAQByAG8AbAAgAAEAYQABAG4AAABuAAAAAADebFqvAAIAjAEAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAeBg==</data>
+			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>BwCbPg==</data>
-				<key>framebuffer-patch-enable</key>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>enable-lspcon-support</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con0-type</key>
-				<data>AAgAAA==</data>
 				<key>framebuffer-con0-has-lspcon</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-con0-preferred-lspcon-mode</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con2-enable</key>
-				<data>AQAAAA==</data>
+				<key>framebuffer-con0-type</key>
+				<data>AAgAAA==</data>
 				<key>framebuffer-con2-busid</key>
 				<data>AA==</data>
-				<key>enable-lspcon-support</key>
+				<key>framebuffer-con2-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 			</dict>
 		</dict>
@@ -385,6 +392,60 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCSuperIO</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>USBInjectAll.kext</string>
+				<key>Comment</key>
+				<string>USBInjectAll.kext</string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/USBInjectAll</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>USBToolBox.kext</string>
+				<key>Comment</key>
+				<string>USBToolBox.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/USBToolBox</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>Arch</key>
+				<string>Any</string>
+				<key>BundlePath</key>
+				<string>UTBMap.kext</string>
+				<key>Comment</key>
+				<string>UTBMap.kext</string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -529,60 +590,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCRadeonGPU</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>USBInjectAll.kext</string>
-				<key>Comment</key>
-				<string>USBInjectAll.kext</string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBInjectAll</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>USBToolBox.kext</string>
-				<key>Comment</key>
-				<string>USBToolBox.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBToolBox</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>Arch</key>
-				<string>Any</string>
-				<key>BundlePath</key>
-				<string>UTBMap.kext</string>
-				<key>Comment</key>
-				<string>UTBMap.kext</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
@@ -977,9 +984,9 @@
 			<false/>
 			<key>AppleXcpmForceBoost</key>
 			<false/>
-			<key>CustomPciSerialDevice</key>
-			<false/>
 			<key>CustomSMBIOSGuid</key>
+			<false/>
+			<key>CustomPciSerialDevice</key>
 			<false/>
 			<key>DisableIoMapper</key>
 			<true/>
@@ -1136,6 +1143,33 @@
 		</dict>
 		<key>Serial</key>
 		<dict>
+			<key>Custom</key>
+			<dict>
+				<key>BaudRate</key>
+				<integer>115200</integer>
+				<key>ClockRate</key>
+				<integer>1843200</integer>
+				<key>DetectCable</key>
+				<false/>
+				<key>ExtendedTxFifoSize</key>
+				<integer>64</integer>
+				<key>FifoControl</key>
+				<integer>7</integer>
+				<key>LineControl</key>
+				<integer>7</integer>
+				<key>PciDeviceInfo</key>
+				<data>/w==</data>
+				<key>RegisterAccessWidth</key>
+				<integer>8</integer>
+				<key>RegisterBase</key>
+				<integer>1016</integer>
+				<key>RegisterStride</key>
+				<integer>1</integer>
+				<key>UseHardwareFlowControl</key>
+				<false/>
+				<key>UseMmio</key>
+				<false/>
+			</dict>
 			<key>Init</key>
 			<false/>
 			<key>Override</key>
@@ -1523,6 +1557,8 @@
 		</dict>
 		<key>LegacyOverwrite</key>
 		<false/>
+		<key>WriteFlash</key>
+		<true/>
 		<key>LegacySchema</key>
 		<dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
@@ -1553,8 +1589,6 @@
 				<string>BootOrder</string>
 			</array>
 		</dict>
-		<key>WriteFlash</key>
-		<true/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
@@ -1566,10 +1600,10 @@
 		<dict>
 			<key>AdviseFeatures</key>
 			<false/>
-			<key>MLB</key>
-			<string>C02029600CDLNV9UE</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
+			<key>MLB</key>
+			<string>C02029600CDLNV9UE</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -1633,10 +1667,10 @@
 			<integer>0</integer>
 			<key>PointerPollMask</key>
 			<integer>-1</integer>
-			<key>PointerPollMax</key>
-			<integer>80</integer>
 			<key>PointerPollMin</key>
 			<integer>10</integer>
+			<key>PointerPollMax</key>
+			<integer>80</integer>
 			<key>PointerSpeedDiv</key>
 			<integer>1</integer>
 			<key>PointerSpeedMul</key>
@@ -1749,10 +1783,10 @@
 			<false/>
 			<key>TextRenderer</key>
 			<string>BuiltinGraphics</string>
-			<key>UIScale</key>
-			<integer>0</integer>
 			<key>UgaPassThrough</key>
 			<false/>
+			<key>UIScale</key>
+			<integer>0</integer>
 		</dict>
 		<key>ProtocolOverrides</key>
 		<dict>
